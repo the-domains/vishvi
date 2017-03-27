@@ -1,0 +1,33 @@
+color:
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.15339236333966255
+  lightness: 0.5752759466413409
+  saturation: 0.18926751473918557
+  rhythmicContrast: 0.4216087230015546
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: vishvi
+layout_spectrum: 0.27778071351349354
+typography_spectrum: 0.39829796203412116
+content: []
+title: Vishvi
+description: Religion
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1e785da-d511-4c90-b619-4af23816dcb4.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a72380f5-a539-48bc-8ccc-2ea7d400dfcd.png
+purpose:
+  - type: contact
+    url: 'mailto:info@vishvi.com'
+    label: Contact me
